@@ -1,0 +1,299 @@
+0=Standard MIDI Instruments
+1=Drums
+2=Non-Standard MIDI Instruments
+3=Voice Sounds
+
+00:000 Grand Piano
+00:001 Bright Grand Piano
+00:002 Electric Piano
+00:003 Tack Piano / Honky Tonk
+00:004 Rhodes Piano
+00:005 Electric Piano 2
+00:006 Harpsichord
+00:007 Clavinet
+00:008 Celesta
+00:009 Glockenspiel
+00:010 Church Bell
+00:011 Vibraphone
+00:012 Marimba
+00:013 Xylophone
+00:014 Tubular Bells
+00:015 Dulcimer
+00:016 Drawbar Organ
+00:017 Percussive/Hammond Organ
+00:018 Rock Organ
+00:019 Church Organ
+00:020 Reed Organ
+00:021 Accordian
+00:022 Harmonica
+00:023 Bandoneon
+00:024 Nylon String Guitar
+00:025 Steel String Guitar
+00:026 Jazz Guitar
+00:027 Clean Guitar
+00:028 Palm Muted Guitar
+00:029 Overdrive Guitar
+00:030 Distortion Guitar
+00:031 Guitar Harmonics
+00:032 Acoustic Bass Guitar
+00:033 Fingered Bass Guitar
+00:034 Picked Bass Guitar
+00:035 Fretless Bass Guitar
+00:036 Slap Bass Guitar
+00:037 Pop Bass Guitar
+00:038 _ ( Guitar )
+00:039 Electric Violin
+00:040 Violin
+00:041 Viola
+00:042 Cello
+00:043 Contrabass
+00:044 Tremolo Strings
+00:045 Plucked Strings
+00:046 Harp
+00:047 Timpani
+00:048 Bright Strings
+00:049 Dark Strings
+00:050 Guitar Played With Bow
+00:051 Electric Guitar Played With Bow
+00:052 Voice "Ahh"
+00:053 Voice "Ohh"
+00:054 Hum
+00:055 Orchestra Hit
+00:056 Trumpet
+00:057 Trombone
+00:058 Tuba
+00:059 Trombone ( Straight Mute )
+00:060 French Horn
+00:061 Bright Brass
+00:062 Dark Brass
+00:063 Trombone ( Plunger Mute )
+00:064 Soprano Saxophone
+00:065 Alto Saxophone
+00:066 Tenor Saxophone
+00:067 Baritone Saxophone
+00:068 Oboe
+00:069 English Horn
+00:070 Bassoon
+00:071 Clarinet
+00:072 Piccolo
+00:073 Flute
+00:074 Recorder
+00:075 Pan Flute
+00:076 Bottle Chiff
+00:077 Shakuhachi
+00:078 Whistle
+00:079 Ocarina
+00:080 Trumpet ( Plunger Mute )
+00:081 Trumpet ( Bucket Mute )
+00:082 Trumpet ( Cup Mute )
+00:083 Trumpet ( Straight Mute )
+00:084 Euphonium
+00:085 Wine Glasses
+00:086 Baritone ( Brass )
+00:087 Mellophone
+00:088 Flugel Horn
+00:089 Didgeridoo
+00:090 Calliope
+00:091 Bowed Bowls
+00:092 Bowed Glass
+00:093 Bowed Bowls Timpani
+00:094 Concert Bass Drum
+00:095 Glass Breaking Sound
+00:096 Rain Sound
+00:097 Thunder Sound
+00:098 Burning Sound
+00:099 Fife
+00:100 12-String Guitar
+00:101 Taisho Koto
+00:102 Ukelele
+00:103 Mandolin
+00:104 Sitar
+00:105 Banjo
+00:106 Shamisen
+00:107 Koto
+00:108 Kalimba
+00:109 Bagpipe
+00:110 Fiddle
+00:111 Shenai
+00:112 Tinker Bell
+00:113 Agogo
+00:114 Steel Drums
+00:115 Woodblocks
+00:116 Taiko Drums
+00:117 Tom-Toms
+00:118 Concert Cymbals
+00:119 Reverse Concert Cymbals
+00:120 Fret Noise
+00:121 Breath Noise
+00:122 Sea Shore
+00:123 Bird Tweet
+00:124 Telephone
+00:125 Helicopter
+00:126 Applause
+00:127 Gunshot
+01:xxx Drumset Tones
+02:000 Gong
+03:000 Voice "kk"
+03:001 Voice "Ah"
+03:002 Voice "Oh"
+03:003 Voice "TT"
+03:004 Voice "TH"
+03:005 Voice "Th"
+03:006 Voice "Kh"
+03:007 Voice "OO"
+
+Drumset
+	0: Thunder Tube Open
+	1: Thunder Tube Closed
+	2: Thunder Tube Flick
+	3: Thunder Tube Pinch+Drag
+	4: Thunder Tube Shake
+	5: Thunder Tube Bottom
+	6: Guitar as Drum
+	7: Folder Drum
+	8: Computer Keyboard
+	9: Wood Instruments
+	10: Clothing Slap
+	11: Piano Fall
+	12: Frog Croak
+	13: Dog
+	14: Cat
+	15: Sandpaper
+	16: Cloth
+	17: Slap
+	18: Train
+	19: Wind Chimes
+	20: Background Noise
+	21: Kick Drum 1
+	22: Kick Drum 2
+	23: Bowed Bowl Timpani
+	24: Snare Rim Shot w/ Brush
+	25: Snare Hit w/ Brush
+	26: Snare Circle w/ Brush
+	27: High Hat Closed
+	28: High Hat Pedal
+	29: High Hat Open
+	30: Ride Cymbal
+	31: Sticks
+	32: Square Click
+	33: Metronome Click
+	34: Metronome Bell
+	35: Hi - Bass Drum
+	36: Lo - Bass Drum
+	37: Snare Drum Rim Shot
+	38: Snare Drum Snare-On
+	39: Hand Clap
+	40: Snare Drum Snare-Off
+	41: Lo - Tom-Tom
+	42: Me - Tom-Tom
+	43: Hi - Tom-Tom
+	44: Church Bell
+	45: Glass Breaking Sound
+	46: Chinese Cymbal
+	47: Reverse Concert Cymbal
+	48: Scratch
+	49: Door Close
+	50: Door Creak
+	51: Punch
+	52: Quijada
+	53: Long Hi Whistle
+	54: Long Lo Whistle
+	55: Cowbell 1
+	
+	?54: Tambourine
+	?55: Splash Cymbal
+
+	56: Cowbell 2
+	57: Concert Cymbal
+	58: Vibra-Slap
+	59: Ride Cymbal
+	60: Hi - Bongo
+	61: Lo - Bongo
+	62: Mute Hi Conga
+	63: Open Hi Conga
+	64: Lo Conga
+	65: Hi Timbale
+	66: Lo Timbale
+	67: Hi Agogo
+	68: Lo Agogo
+	69: Cabasa
+	70: Maracas
+	71: Short Hi Whistle
+	72: Short Lo Whistle
+	73: Short Guiro
+	74: Long Guiro
+	75: Claves
+	76: High Woodblock
+	77: Low Woodblock
+	78: Mute Cuica
+	79: Open Cuica
+	80: Mute Triangle
+	81: Open Triangle
+	82: Shaker
+	83: Jingle Bell
+	84: Belltree
+	85: Castanets
+	86: Mute Surdo
+	87: Open Surdo
+	88: Car Brakes
+	89: Car Passing
+	90: Car Crash
+	91: Siren
+	92: Train
+	93: Jet Plane
+	94: Helicopter
+	95: Metal Hit
+	96: Machine Gun
+	97: Laser Gun
+	98: Explosion
+	99: Dog Bark
+	100: Horse Gallop
+	101: Birds Tweet
+	102: Rain Sound
+	103: Thunder Sound
+	104: Gong
+	105: Rainstick
+	106: Flowing Water
+	107: Bubbling Water
+	108: Car Engine
+	109: Burning Sound
+	110: Snap
+	111: Stomp
+	112: Footsteps
+	113: Heart Beat
+	114: Scream
+	115: Laugh
+	116: Burp
+	117: Tornado Alarm
+	118: War Alarm
+	119: Fire Alarm
+	120: Fret Noise
+	121: Breath Noise
+	122: Sea Shore
+	123: Bird Tweet
+	124: Telephone
+	125: Helicopter
+	126: Applause
+	127: Gunshot
+
+Soundfonts:
+	Natural ( From Recordings )
+	Distorted ( From Recordings )
+	Echo ( From Natural )
+	8-Bit ( From Natural )
+	
+Instrument Banks:
+	0-31	"O"	Solo Instruments
+	32-63	"I"	Instrument Section
+	64-95	"Y"	Synthesized Instruments
+	96-127	"P"	Electric Piano Instruments
+	128:0	"D"	Drumset Solo
+	128:1	"S"	Drumset Section
+	128:2	"H"	Synth Drumset
+	128:3	"E"	Electric Piano Drumset
+	
+Recordings
+	N - Natural
+	D - Distorted
+	S - Synth
+	E - 8-Bit
